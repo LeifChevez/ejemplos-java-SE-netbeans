@@ -3,7 +3,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
- *Prueba de repositorio 
+ *Prueba de repositorio 1
  * @author memux
  */
 public class EjercicioPropuesto {
